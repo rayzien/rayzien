@@ -6,7 +6,6 @@
 [![Contact Me](https://img.shields.io/badge/📬%20Contact%20Me-RayzHub%20Portal-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/#messages)
 [![Transmit Message](https://img.shields.io/badge/💬%20Send%20Message-RayzHub%20Gateway-0affe4?style=for-the-badge&logo=telegram&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/#messages)
 [![Official Hub](https://img.shields.io/badge/🌐%20Launch%20RayzHub-7928CA?style=for-the-badge&logo=githubpages&logoColor=fff&labelColor=0d1117)](https://rayzien.github.io/rayzhub/)
-[![YouTube](https://img.shields.io/badge/YouTube-@rayzien-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@rayzien)
 
 <br/>
 
@@ -123,7 +122,6 @@ location_in_matrix: Web3 / Distributed Nodes / Linux Shell
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-RayzHub%20Portal-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000)](https://rayzien.github.io/rayzhub/#messages)
 [![Send Message](https://img.shields.io/badge/Send%20Message-RayzHub%20Inbox-0affe4?style=for-the-badge&logo=satellite&logoColor=000)](https://rayzien.github.io/rayzhub/#messages)
 [![RayzHub](https://img.shields.io/badge/Live%20Hub-rayzien.github.io%2Frayzhub-7928CA?style=for-the-badge&logo=githubpages&logoColor=fff)](https://rayzien.github.io/rayzhub/)
-[![YouTube](https://img.shields.io/badge/YouTube-@rayzien-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rayzien)
 [![GitHub](https://img.shields.io/badge/GitHub-rayzien-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayzien)
 
 <br/>
