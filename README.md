@@ -1,11 +1,11 @@
 <div align="center">
 
-# ⚡ RAYZIEN
+# RAYZIEN
 ### `Automation is peak>>`
 
-[![Contact Me](https://img.shields.io/badge/📬%20Contact%20Me-RayzHub%20Portal-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/#messages)
-[![Transmit Message](https://img.shields.io/badge/💬%20Send%20Message-RayzHub%20Gateway-0affe4?style=for-the-badge&logo=telegram&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/#messages)
-[![Official Hub](https://img.shields.io/badge/🌐%20Launch%20RayzHub-7928CA?style=for-the-badge&logo=githubpages&logoColor=fff&labelColor=0d1117)](https://rayzien.github.io/rayzhub/)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-RayzHub%20Portal-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/#messages)
+[![Transmit Message](https://img.shields.io/badge/Send%20Message-RayzHub%20Gateway-0affe4?style=for-the-badge&logo=telegram&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/#messages)
+[![Official Hub](https://img.shields.io/badge/Launch%20RayzHub-7928CA?style=for-the-badge&logo=githubpages&logoColor=fff&labelColor=0d1117)](https://rayzien.github.io/rayzhub/)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 
 > Want to contact me, get in touch, or transmit a direct message?  
 > Click **Contact Me** below to open my live **RayzHub Contact Portal** hosted on GitHub Pages:
@@ -25,44 +25,34 @@
 <div align="center">
 
 <a href="https://rayzien.github.io/rayzhub/#messages">
-  <img src="https://img.shields.io/badge/%E2%9E%A4%20CONTACT%20ME%20ON%20RAYZHUB-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0a0e14" height="48" alt="Contact Me on RayzHub"/>
+  <img src="https://img.shields.io/badge/CONTACT%20ME%20ON%20RAYZHUB-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0a0e14" height="48" alt="Contact Me on RayzHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://rayzien.github.io/rayzhub/#messages">
-  <img src="https://img.shields.io/badge/%E2%9E%A4%20SEND%20LIVE%20MESSAGE-0affe4?style=for-the-badge&logo=satellite&logoColor=000&labelColor=0a0e14" height="48" alt="Send Live Message on RayzHub"/>
+  <img src="https://img.shields.io/badge/SEND%20LIVE%20MESSAGE-0affe4?style=for-the-badge&logo=satellite&logoColor=000&labelColor=0a0e14" height="48" alt="Send Live Message on RayzHub"/>
 </a>
 
 <br/><br/>
-<sub>⚡ <b>Clicking "Contact Me" loads <a href="https://rayzien.github.io/rayzhub/#messages">https://rayzien.github.io/rayzhub/#messages</a></b> — where you can reach out directly via live transmissions routed by BLAST Gateway without needing an email client.</sub>
+<sub><b>Clicking "Contact Me" loads <a href="https://rayzien.github.io/rayzhub/#messages">https://rayzien.github.io/rayzhub/#messages</a></b> — where you can reach out directly via live transmissions routed by BLAST Gateway without needing an email client.</sub>
 
 </div>
 
 ---
 
-### 🛸 About Me
+### About Me
 
-```yaml
-alias: Ray / rayzien
-philosophy: "Automation is peak>>"
-mission: "Zero artificial paywalls • High-throughput architecture • Data sovereignty"
-focus_areas:
-  - High-performance automation engines & headless orchestration
-  - Distributed systems, sharded file architectures & Supabase gateways
-  - P2P networking, decentralized storage & secure routing
-location_in_matrix: Web3 / Distributed Nodes / Linux Shell
-```
+Developer focused on high-throughput automation engines, distributed systems, and secure backend architectures.
 
-- ⚙️ Architect of **[RayzHub](https://rayzien.github.io/rayzhub/)**, a decoupled, high-throughput routing engine and web portal.
-- ⚡ Building **[encor](https://github.com/rayzien/encor)**, a next-gen automation platform powered by FastAPI & Playwright.
-- 🛡️ Co-author of **[BLAST](https://github.com/rayzien/BLAST)**, cluster gateway and secure queue for Supabase with zero direct key exposure.
-- 📂 Pioneering **[rayzOSS](https://github.com/rayzien/rayzOSS)**, distributed sharded filesystem and database synchronization engine.
+- Architect of **[RayzHub](https://rayzien.github.io/rayzhub/)** & **[BLAST](https://github.com/rayzien/BLAST)**
+- Building **[encor](https://github.com/rayzien/encor)** & **[rayzOSS](https://github.com/rayzien/rayzOSS)**
 
 ---
 
-### 🚀 Flagship Systems & Repositories
+### Flagship Systems & Repositories
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**Skyien**](https://github.com/rayzien/Skyien) | High-speed C++20 Telegram automation CLI & workflow engine | `C++20` `TDLib` `Linux` |
 | [**RayzHub**](https://rayzien.github.io/rayzhub/) | Distributed routing platform, BLAST integration & live contact transmit hub | `HTML5` `FastAPI` `BLAST` |
 | [**BLAST**](https://github.com/rayzien/BLAST) | High-performance security, queue, and cluster gateway for Supabase | `Python` `Supabase` `Queue` |
 | [**encor**](https://github.com/rayzien/encor) | Next-generation automation platform with premium UI and headless runners | `FastAPI` `Playwright` `AsyncIO` |
@@ -73,14 +63,14 @@ location_in_matrix: Web3 / Distributed Nodes / Linux Shell
 
 ---
 
-### 🛠️ Tech Arsenal
+### Tech Arsenal
 
 <div align="center">
 
 ```
-  Languages   : Python, JavaScript, Shell, SQL, HTML/CSS
+  Languages   : Python, C++, JavaScript, Shell, SQL, HTML/CSS
   Backend     : FastAPI, Flask, Uvicorn, AsyncIO, REST APIs
-  Automation  : Playwright, Headless Chromium, Web Scraping, Daemon Services
+  Automation  : Playwright, TDLib, Headless Chromium, Web Scraping, Daemon Services
   Databases   : PostgreSQL, Supabase, Redis, Sharded Distributed Stores
   DevOps/Net  : Docker, GitHub Actions, Linux Systems, Render, P2P Protocols
 ```
@@ -100,22 +90,17 @@ location_in_matrix: Web3 / Distributed Nodes / Linux Shell
 
 ---
 
-### 📊 Telemetry & Activity
+### Telemetry & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rayzien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0affe4&icon_color=00ff66&text_color=c9d1d9" alt="Rayzien GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayzien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0affe4&text_color=c9d1d9" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayzien&theme=tokyonight&hide_border=true&background=0d1117&ring=0affe4&fire=00ff66&currStreakLabel=0affe4" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <div align="center">
 
