@@ -3,13 +3,13 @@
 # RAYZIEN
 ### `Automation is peak>>`
 
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-RayzHub%20Portal-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/#messages)
-[![Transmit Message](https://img.shields.io/badge/Send%20Message-RayzHub%20Gateway-0affe4?style=for-the-badge&logo=telegram&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/#messages)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-RayzHub%20Portal-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/)
+[![Transmit Message](https://img.shields.io/badge/Send%20Message-RayzHub%20Gateway-0affe4?style=for-the-badge&logo=telegram&logoColor=000&labelColor=0d1117)](https://rayzien.github.io/rayzhub/)
 [![Official Hub](https://img.shields.io/badge/Launch%20RayzHub-7928CA?style=for-the-badge&logo=githubpages&logoColor=fff&labelColor=0d1117)](https://rayzien.github.io/rayzhub/)
 
 <br/>
 
-<a href="https://rayzien.github.io/rayzhub/#messages">
+<a href="https://rayzien.github.io/rayzhub/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0affe4,100:00ff66&height=180&section=header&text=RAYZIEN%20//%20DEV&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Distributed%20Systems%20%E2%80%A2%20High-Throughput%20Engines%20%E2%80%A2%20Automation&descAlignY=60&descSize=16&descColor=0affe4" width="100%"/>
 </a>
 
@@ -24,16 +24,16 @@
 
 <div align="center">
 
-<a href="https://rayzien.github.io/rayzhub/#messages">
+<a href="https://rayzien.github.io/rayzhub/">
   <img src="https://img.shields.io/badge/CONTACT%20ME%20ON%20RAYZHUB-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0a0e14" height="48" alt="Contact Me on RayzHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://rayzien.github.io/rayzhub/#messages">
+<a href="https://rayzien.github.io/rayzhub/">
   <img src="https://img.shields.io/badge/SEND%20LIVE%20MESSAGE-0affe4?style=for-the-badge&logo=satellite&logoColor=000&labelColor=0a0e14" height="48" alt="Send Live Message on RayzHub"/>
 </a>
 
 <br/><br/>
-<sub><b>Clicking "Contact Me" loads <a href="https://rayzien.github.io/rayzhub/#messages">https://rayzien.github.io/rayzhub/#messages</a></b> — where you can reach out directly via live transmissions routed by BLAST Gateway without needing an email client.</sub>
+<sub><b>Clicking "Contact Me" loads <a href="https://rayzien.github.io/rayzhub/">https://rayzien.github.io/rayzhub/</a></b> — where you can reach out directly via live transmissions routed by BLAST Gateway without needing an email client.</sub>
 
 </div>
 
@@ -104,8 +104,8 @@ Developer focused on high-throughput automation engines, distributed systems, an
 
 <div align="center">
 
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-RayzHub%20Portal-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000)](https://rayzien.github.io/rayzhub/#messages)
-[![Send Message](https://img.shields.io/badge/Send%20Message-RayzHub%20Inbox-0affe4?style=for-the-badge&logo=satellite&logoColor=000)](https://rayzien.github.io/rayzhub/#messages)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-RayzHub%20Portal-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000)](https://rayzien.github.io/rayzhub/)
+[![Send Message](https://img.shields.io/badge/Send%20Message-RayzHub%20Inbox-0affe4?style=for-the-badge&logo=satellite&logoColor=000)](https://rayzien.github.io/rayzhub/)
 [![RayzHub](https://img.shields.io/badge/Live%20Hub-rayzien.github.io%2Frayzhub-7928CA?style=for-the-badge&logo=githubpages&logoColor=fff)](https://rayzien.github.io/rayzhub/)
 [![GitHub](https://img.shields.io/badge/GitHub-rayzien-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayzien)
 
