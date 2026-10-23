@@ -44,7 +44,7 @@
 Developer focused on high-throughput automation engines, distributed systems, and secure backend architectures.
 
 - 🎮 Architect of **[GameGhost](https://github.com/rayzien/gameghost)** (based on CPUGhost, WIP) — handheld cloud gaming cast streaming PC games to phone anywhere in range like a PS Portal with touch layouts & virtual gamepad emulation.
-- 🌐 Ecosystem collaborator on **[CPUGhost](https://github.com/pheonix14/cpughost)** (by pheonix14) — headless dual-PC screen mirroring & multi-PC local chain web system (scrcpy-like, 100% free).
+- 🌐 Ecosystem collaborator on **[CPUGhost](https://github.com/pheonix14/cpughost)** (by pheonix14) — headless dual-PC screen mirroring connecting multiple PCs together forming a huge chain like a web locally (scrcpy-like, 100% free).
 - ⚙️ Architect of **[RayzHub](https://rayzien.github.io/rayzhub/)** & **[BLAST](https://github.com/rayzien/BLAST)**
 - ⚡ Building **[encor](https://github.com/rayzien/encor)** & **[rayzOSS](https://github.com/rayzien/rayzOSS)**
 - 🚀 Creator of **[Skyien](https://github.com/rayzien/Skyien)** (High-speed C++20 Telegram automation CLI)
@@ -56,7 +56,7 @@ Developer focused on high-throughput automation engines, distributed systems, an
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**GameGhost**](https://github.com/rayzien/gameghost) | Handheld PC gaming cast like PS Portal & cloud gaming, streaming local PC to phone anywhere in range (based on CPUGhost, WIP) | `Python` `Termux-X11` `uinput` |
-| [**CPUGhost**](https://github.com/pheonix14/cpughost) | Headless dual-PC hotspot screen & multi-PC local chain web (scrcpy-like, 100% free, by pheonix14) | `Python` `Shell` `Mesh` |
+| [**CPUGhost**](https://github.com/pheonix14/cpughost) | Headless dual-PC hotspot screen connecting multiple PCs together forming a huge chain like a web locally (scrcpy-like, 100% free, by pheonix14) | `Python` `Shell` `Mesh` |
 | [**Skyien**](https://github.com/rayzien/Skyien) | High-speed C++20 Telegram automation CLI & workflow engine | `C++20` `TDLib` `Linux` |
 | [**RayzHub**](https://rayzien.github.io/rayzhub/) | Distributed routing platform, BLAST integration & live contact transmit hub | `HTML5` `FastAPI` `BLAST` |
 | [**BLAST**](https://github.com/rayzien/BLAST) | High-performance security, queue, and cluster gateway for Supabase | `Python` `Supabase` `Queue` |
